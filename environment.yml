@@ -142,7 +142,7 @@ dependencies:
     - pynndescent==0.5.4
     - pyrsistent==0.18.0
     - pytest==6.2.4
-    - python-graphviz
+    - graphviz
     - pyzmq==22.2.1
     - qtconsole==5.1.1
     - qtpy==1.9.0

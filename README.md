@@ -4,6 +4,8 @@ Jupyter notebooks to accompany my introductory tutorial on Cheminformatics and M
 
 **Please note that you don't have to install any software to run these Jupyter notebooks.**  You can just click on the "launch binder" link below and run the software on [Binder](https://mybinder.org/).  However, if you want to install the software on your computer, please follow the instructions below. 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PatWalters/chem_tutorial/HEAD)
+
 **Installation**
 To install this software on your computer. 
 
@@ -16,4 +18,4 @@ To install this software on your computer.
 7. cd chem_tutorial
 8. jupyter notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PatWalters/chem_tutorial/HEAD)
+

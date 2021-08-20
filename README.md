@@ -2,7 +2,7 @@
 
 Jupyter notebooks to accompany my introductory tutorial on Cheminformatics and Machine Learning. 
 
-**Please note that you don't have to install any software to run these Jupyter notebooks.**  You can just click on the "launch binder" link below and run the software on Binder.  However, if you want to install the software on your computer, please follow the instructions below. 
+**Please note that you don't have to install any software to run these Jupyter notebooks.**  You can just click on the "launch binder" link below and run the software on [Binder](https://mybinder.org/).  However, if you want to install the software on your computer, please follow the instructions below. 
 
 **Installation**
 To install this software on your computer. 

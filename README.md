@@ -7,6 +7,7 @@ Jupyter notebooks to accompany my introductory tutorial on Cheminformatics and M
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PatWalters/chem_tutorial/HEAD)
 
 **Installation**
+
 To install this software on your computer. 
 
 1. [Install Anaconda](https://docs.anaconda.com/anaconda/install/index.html)

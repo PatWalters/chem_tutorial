@@ -16,7 +16,6 @@ To install this software on your computer.
 4. cd chem_tutorial
 5. conda env create -f environment.yml
 6. conda activate chem_tutorial
-7. cd chem_tutorial
-8. jupyter notebook
+7. jupyter notebook
 
 
